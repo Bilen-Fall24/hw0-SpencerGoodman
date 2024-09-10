@@ -12,9 +12,7 @@ I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a d
 Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
 
 
-# Name:
-
-# Task 1
+# Spencer Goodman
 
 This assignment is a practice assignment for you to gain practice working with Jupyter Notebook and Github. Go ahead and run the cell below. Make sure it gets executed with no issues. Keep in mind, you can either click on "Cell > Run Cells" at the top, or hit Shift + Enter to run a cell.
 
@@ -24,7 +22,7 @@ print("Hello World!")
 ```
 
     Hello World!
-
+    
 
 Now, go ahead and write python code in the chunk below that prints your favorite movie. Here is my output:
 
@@ -32,8 +30,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("My favorite movie is The SpongeBob SquarePants Movie!")
 ```
+
+    My favorite movie is The SpongeBob SquarePants Movie!
+    
 
 # Task 2
 
